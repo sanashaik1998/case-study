@@ -5,11 +5,6 @@ import java.util.List;
 import com.hcl.exception.ApplicationException;
 import com.hcl.model.Pet;
 import com.hcl.model.User;
-/**
- * 
- * @author MokaSaiSuryaPrakash(51897451)
- *
- */
 
 public interface UserService {
   
