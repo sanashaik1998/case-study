@@ -2,7 +2,7 @@ package com.hcl;
 
 import java.util.Scanner;
 
-import com.src.Goldstall;
+import delivery.Goldstall;
 
 public class Testinterface {
 	public static void main(String[] args) {
